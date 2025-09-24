@@ -1,0 +1,5 @@
+Hanoi tornyai rekurzív megközelítéssel
+
+A feladat rekurzív megoldásának alapötlete az, hogy minden alkalommal, amikor a legnagyobb korongot át kell helyezni a célrúdra, előtte meg kell oldanunk a problémát az eggyel kevesebb korongra (n - 1).
+
+A rekurzív összefüggés az, hogy ahhoz, hogy n-t megoldjuk n-1 korongot át kell helyezni a segédrúdra.
