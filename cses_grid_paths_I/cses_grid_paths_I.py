@@ -1,3 +1,7 @@
+# CSES Grid Paths I megoldás
+# Megközelítés: Dinamikus Programozás
+# https://cses.fi/problemset/task/1638
+
 n = int(input())
 grid = []
 MOD = 10 ** 9 + 7
